@@ -21,10 +21,10 @@
 <p> Really, at the end of the day, I think my skillset is easily applicable to other fields with just some prep time. Computer science as a field equips me, and others like me, with the tools to design solutions that are versatile across diverse platforms and implementations. </p>
 
 <!-- What I do in my spare time -->
-
+<p> Whenever I have spare time, I work on some of my other hobbies - reading and writing stories, playing video games, working on a coding project, or learning some new skills involving some of the prior three. </p>
 
 <!-- What I'm interested in right now -->
-
+<p> </p>
 
 <!-- My personal values -->
 
