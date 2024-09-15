@@ -4,6 +4,7 @@
 <!-- INTRODUCTION -->
 <p> I'm <strong>Victor Edwin Reyes</strong>, but you can call me Victor! I'm a student taking up a <strong>Bachelor's Degree in Computer Science</strong> at the <strong>University of the Philippines - Diliman</strong>. Aside from that, I've had a wide range of experiences in many academic fields. I've also taken on a number of leadership and training roles in various organizations and projects. Including: </p>
 
+<!-- Link all of these -->
 <ul>
 <li> Intern for UPRI </li>
 <li> Backend Developer for GINA </li>
