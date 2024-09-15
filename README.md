@@ -24,7 +24,7 @@
 <p> Whenever I have spare time, I work on some of my other hobbies - reading and writing stories, playing video games, working on a coding project, or learning some new skills involving some of the prior three. </p>
 
 <!-- What I'm interested in right now -->
-<p> </p>
+<p> I'm currently exploring Tauri for use in developing desktop applications. I'm also exploring shell scripting right now, with the intent of teaching my colleagues how to manipulate computer systems without a GUI (among other goals). I'm also studying Docker and deployment platforms for similar reasons. </p>
 
 <!-- My personal values -->
 
