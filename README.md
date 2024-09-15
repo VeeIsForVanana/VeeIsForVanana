@@ -14,7 +14,11 @@
 </ul>
 
 <!-- Why just Computer Scientist? -->
-<p> </p>
+<p> Out of the many roles I could call myself, I think I'm currently happiest calling myself a <strong>computer scientist</strong>. It's a nebulous and broad term, because my interests are about as nebulous and broad. I have experience in full-stack web development, data science, game development, and low-level systems development, and I'm interested in exploring further in all those fields. </p>
+
+<p> If I were asked to pick for now though, my best fit is as a <strong>full-stack web developer</strong> since that's where my strongest experience is. Like I said above, though, I don't think my strengths just lie here. </p>
+
+<p> Really, at the end of the day, I think my skillset is easily applicable to other fields with just some prep time. Computer science as a field equips me, and others like me, with the tools to design solutions that are versatile across diverse platforms and implementations. </p>
 
 <!-- What I do in my spare time -->
 
