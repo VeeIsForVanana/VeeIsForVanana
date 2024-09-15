@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Reyes!</h1>
+<h1 align="center">Hi 👋, I'm Victor!</h1>
 <h3 align="center">A smart, energetic systems builder 🛠️ from the Philippines 🇵🇭</h3>
 <p> I honestly don't know how else to describe myself. I'm at the stage of my life where I'm scared to commit to any one thing, but I have potential for just about everything. So let's just say I like building systems. </p>
 
