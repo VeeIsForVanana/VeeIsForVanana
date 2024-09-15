@@ -5,8 +5,11 @@
 <p> Anyway, I'm *Victor Edwin Reyes*, but you can call me Victor! I'm a student taking up Computer Science at the University of the Philippines - Diliman. Aside from that, I've had a wide range of experiences in many academic fields. I've also taken on a number of leadership and training roles in various organizations and projects. Including: </p>
 
 <ul>
-<li> DeliVault </li>
-<li> UP Food Finder </li>
+<li> Intern for UPRI </li>
+<li> Backend Developer for GINA </li>
+<li> Developer for DRAP </li>
+<li> Technical Head for DeliVault </li>
+<li> And most recently, Director for Engineering of UP CSI </li>
 </ul>
 
 <p> </p>
